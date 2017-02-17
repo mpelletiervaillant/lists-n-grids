@@ -40,11 +40,6 @@ a {
   color: #623b0c;
 }
 
-ol {
-  list-style-type: none;
-  padding: 0;
-}
-
 .card {
   background-color: #ede3db;
   border: 2px solid #623b0c;
